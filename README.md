@@ -1,5 +1,5 @@
 Push your code updates to repo in one command 
 
-pusher '<push comment\>'
+pusher '<Commit Comment\>'
 
 cp pusher /usr/local/bin/pusher
